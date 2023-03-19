@@ -14,4 +14,4 @@ These systems have much more complex architecture and there are a lot of compone
   
 ## File Organization
 
-1. `Modern SoftwareArchitecture Project Team_1`
+1. `Modern SoftwareArchitecture Project Team_1.docx` explains this project description, including the business goal, stakeholders and user, requirements, quality attributes, viewpoint, and so on.
