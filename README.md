@@ -7,7 +7,3 @@
 </p>
   <br>
 
-  
-## File Organization
-
-1. `Modern SoftwareArchitecture Project Team_1.docx` explains this project description, including the business goal, stakeholders and user, requirements, quality attributes, viewpoint, and so on.
