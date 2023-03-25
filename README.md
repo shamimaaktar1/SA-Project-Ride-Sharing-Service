@@ -20,3 +20,5 @@
 
 ### 1: Business goals
 
+### Phase 3: Conducting the Empirical Validations
+
