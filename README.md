@@ -8,3 +8,15 @@
 </p>
 <br>
 
+## Contents
+
+- [1: Business goals](#business_goals)
+- [Phase 2: Enabling Collaborative Architecting](#enabling-collaborative-architecting)
+  - [Architectural Analysis](#architectural-analysis)
+  - [Architectural Synthesis](#architectural-synthesis)
+  - [Architectural Evaluation](#architectural-evaluation)
+- [Phase 3: Conducting the Empirical Validations](#conducting-the-empirical-validations)
+
+
+### 1: Business goals
+
