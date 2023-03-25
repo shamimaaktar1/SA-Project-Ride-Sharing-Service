@@ -8,7 +8,7 @@
 </p>
 <br>
 
-## Contents
+## TABLE OF CONTENTS
 
 - [1. Business goals](#business_goals)
 
