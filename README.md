@@ -20,7 +20,7 @@ a)To achieve 99.99% reliability of the core travel experience on ride sharing se
 
 b)Codebase divided by 2: Core code, and optional code. Core code is compulsory when the rider register, calls and completes or cancels travel requirements. Any modification to the core code must go through a rigorous review process. Optional code is less reviewed and can be dynamically closed at any time. This encourages mutual independence at the code level, allowing us to try new features and stop them at any time.
 
-c)Core architecture: class names, inheritance relationships between business logic units (inheritance relationship between business logic units), main business logic, plugin point (name, dependency, structure, etc.), reactive programming chains (relationship between reactive programming), unified platform components (unified platform-level modules).
+c)Core architecture: class names, inheritance relationships between business logic units (inheritance relationship between business logic units), main business logic, plugin point (name, dependency, structure, etc.), reactive programming chains (relationship between reactive programming), unified platform components (unified platform-level modules)..
 
 
 
